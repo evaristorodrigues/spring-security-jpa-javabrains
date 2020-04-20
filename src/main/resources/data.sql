@@ -1,0 +1,1 @@
+insert into users values(1,true,'pass','ROLE_USER','evaristo');
